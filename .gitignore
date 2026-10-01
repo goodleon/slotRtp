@@ -1,0 +1,13 @@
+# Excel / Office 临时锁定文件（Excel 打开 .xlsx 时生成的 ~$ 前缀文件）
+~$*
+
+# Office 自动恢复 / 备份
+*.tmp
+~$*
+*.xlsx~
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+_verify/
+py/
